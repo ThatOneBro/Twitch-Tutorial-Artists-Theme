@@ -1,6 +1,6 @@
 {
   "path": {
-    "public/styles/main.sass": {
+    "main.sass": {
       "sass.enabled": true,
       "sass.options": {
         "imagePath": null,
